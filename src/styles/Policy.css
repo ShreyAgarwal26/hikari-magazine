@@ -1,0 +1,30 @@
+/* src/styles/Policy.css */
+
+.page-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+  }
+  
+  .page-wrapper h1 {
+    font-size: 2.25rem;
+    color: var(--grey);
+    margin-bottom: 1rem;
+  }
+  
+  .policy-section {
+    margin-bottom: 2rem;
+  }
+  
+  .policy-section h2 {
+    font-size: 1.5rem;
+    color: var(--green);
+    margin-bottom: 0.5rem;
+  }
+  
+  .policy-section p {
+    font-size: 1rem;
+    color: var(--grey);
+    line-height: 1.6;
+  }
+  

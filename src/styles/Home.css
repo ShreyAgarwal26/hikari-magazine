@@ -1,0 +1,21 @@
+/* src/styles/Home.css */
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 2rem;
+    min-height: 60vh;
+  }
+  
+  .home h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--grey);
+  }
+  
+  .home p {
+    font-size: 1rem;
+    color: var(--grey);
+  }
+  

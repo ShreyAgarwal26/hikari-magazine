@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Instrument Serif';
+    src: url('/fonts/InstrumentSerif-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  :root {
+    --green: #b6bfaa;
+    --pink: #f6e1e0;
+    --ivory: #ffffe3;
+    --grey: #7b7b7c;
+    --soft-green: #AAC0AF;
+    --font-main: 'Instrument Serif', serif;
+  }
+  
+  body {
+    margin: 0;
+    font-family: var(--font-main);
+    background-color: white;
+    color: black;
+  }
+  
